@@ -1,6 +1,7 @@
+/*20171108*/
+/*memory leak in array_struct(1)*/
 #include<stdio.h>
 #include<stdlib.h>
-
 typedef struct { 
 char s1[81]; 
 char s2[81]; 

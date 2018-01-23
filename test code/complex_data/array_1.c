@@ -1,6 +1,6 @@
+/*20171108*/
+/*memory leak in array(1)*/
 #include<stdio.h>
-
-
 void main()
 {
 	int (*p)[10];

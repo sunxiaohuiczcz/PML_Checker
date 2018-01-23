@@ -1,3 +1,5 @@
+/*20171108*/
+/*memory leak in loop(2)*/
 #include<stdio.h>
 void f()
 {

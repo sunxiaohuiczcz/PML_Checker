@@ -1,3 +1,5 @@
+/*20171108*/
+/*memory leak in list(3)*/
 #include<stdio.h>
 #include<stdlib.h>
 struct Node;

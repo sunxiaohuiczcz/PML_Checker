@@ -1,5 +1,6 @@
+/*20171108*/
+/*memory leak in list(1)*/
 #include <stdio.h>
-
 typedef int ElemType;
 
 typedef struct node {

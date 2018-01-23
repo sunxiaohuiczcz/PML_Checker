@@ -1,3 +1,5 @@
+/*20171108*/
+/*memory leak in struct(2)*/
 #include <stdio.h>
 #include <string.h>
 

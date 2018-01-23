@@ -1,5 +1,6 @@
+/*20171108*/
+/*memory leak in array_struct(2)*/
 #include <stdio.h>
-
 #include <string.h>
 struct emp {
     char name[10];
